@@ -1,2 +1,0 @@
-# fedora-packages
-Fedora Packages
